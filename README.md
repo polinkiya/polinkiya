@@ -7,7 +7,8 @@
 - 📚 Образование: [Информационная безопасность](https://new.guap.ru/i03/k33#tab_k33_1)
 - 🌱 Практика: Отдел Аналитики специализированных проектов
 - 🏄🏼‍♂️ Выпускник курса "Симулятор SQL", с основ до продвинух запросов
-- 📬 Как связаться со мной? tg: [@polinkiya](https://t.me/твой_ник) / e-mail: [polinkiya@mail.ru](mailto:polinkiya@mail.ru) 
+- 📬 Как связаться со мной?  [![Telegram Badge](https://img.shields.io/badge/-polinkiya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/polinkiya) [![e-mail Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:poliknkiya@mail.ru)
+
 
 ---
 
