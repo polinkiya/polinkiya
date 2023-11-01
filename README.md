@@ -34,5 +34,5 @@
 ---
 ## 🏅 Мои сертификаты: 
 
-[тут](https://github.com/polinkiya/course-certificates/tree/main) по ссылке 🙌🏻
+По [ссылке](https://github.com/polinkiya/course-certificates/tree/main) можно посмотреть 🙌🏻
 
