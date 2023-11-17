@@ -8,7 +8,7 @@
 - 🌱 Практика: Отдел Аналитики специализированных проектов
 - 🏄🏼‍♂️ Выпускник курса "Симулятор SQL", с основ до продвинух запросов
 - 📬 Как связаться со мной?  [![Telegram Badge](https://img.shields.io/badge/-polinkiya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/polinkiya) [![e-mail Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:poliknkiya@mail.ru)
-- 🌿 Мое CV находится [тут](https://drive.google.com/file/d/1X1u8qFRkZVL2-Pe8qCvxs4MBzrDdDG8b/view?usp=sharing)
+- 🌿 Мое CV находится [тут](https://drive.google.com/file/d/1vRKZ4jm6Npv8dhdS5YIWDETQTjLPclLM/view?usp=sharing)
 
 
 ---
